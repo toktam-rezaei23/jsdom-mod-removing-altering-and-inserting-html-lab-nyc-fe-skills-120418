@@ -5,6 +5,7 @@ main.remove()
 
 /* Create your new element here and assign it to newHeader */
 const newHeader = document.createElement('h1')
+let 
 
 newHeader.innerText = "Toktam is a cool person"
 document.body.appendChild(newHeader)
